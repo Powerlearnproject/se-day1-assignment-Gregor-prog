@@ -1,0 +1,62 @@
+1. Software engineering is the application of engineering principles and methodsSoftware engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems, software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
+2.Milestones in the evolution of software engineering;
+i. The establishment of software engineering as a discipline in the 1960s
+ii. The advent of structured programming in the 1970s
+iii. The rise of agile methodologies in the 2000s.
+3. The Phases of software development life cycles;
+i. Requirements: Gathering and documenting user needs and system requirements.
+ii. Design: Creating high-level and detailed designs of the software architecture and user interface.
+  iii. Implementation: Writing code and building the software according to the design specifications.
+ iv. Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+ v. Deployment: Releasing the software to users or customers.
+ vi.  Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
+
+4. Waterfall is a linear, sequential approach in software development, ideal for projects with fixed, well-defined requirements, such as developing a banking system where strict adherence to specifications is crucial. Agile is iterative and flexible, allowing for continuous changes and feedback, making it suitable for projects like developing a mobile app, where user requirements may evolve over time. Waterfall excels in predictability, while Agile thrives in adaptability.
+
+5. These are the  roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team;
+i. Software Developer: Responsible for writing code and implementing software solutions.
+ ii. Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
+iii. Project Manager: Oversees the planning, execution, and delivery of software projects.
+6. The importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process;
+i. Integrated Development Environments (IDEs): Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
+ ii. Version Control Systems (VCS): Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
+7.Challenges faced by software engineers and strategies to overcome these challenges;
+i.Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
+ ii.Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+iii. Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+Strategies for Overcoming Challenges: Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
+8.The different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance;
+i. Unit testing checks individual components to ensure they work correctly in isolation, catching bugs early. 
+ii. Integration testing examines how different modules interact, identifying issues when components are combined. 
+iii. System testing validates the entire system's functionality against requirements, ensuring the software works as a whole. 
+iv. Acceptance testing is the final validation by end-users to confirm the software meets business needs and is ready for deployment. 
+The importance is that, together, these testing types ensure high software quality, from individual components to full system functionality.
+
+PART TWO
+1. Prompt engineering is the process of crafting and refining input prompts to guide AI models like ChatGPT in generating specific and relevant outputs. By designing effective prompts, users can influence the quality and accuracy of the AI's responses, ensuring they meet the desired objectives.
+
+Importance:
+i. Precision: Helps obtain clear, contextually appropriate answers.
+ii. Efficiency: Reduces the need for multiple attempts to get the right response.
+iii. Control: Allows users to direct the AI’s focus on specific aspects.
+iv. Customization: Tailors responses to match different tones or detail levels.
+v. Prompt engineering is vital for optimizing interactions with AI models, ensuring they deliver useful and relevant results.
+
+2.
+Vague prompt, 'Tell me about cats,'
+improved prompt, 'Tell me about cats in Africa, and some common beliefs about them'
+
+WHY THE IMPROVED TEXT IS MORE EFFECTIVE
+i. Specificity: The improved prompt narrows down the topic to cats in Africa, which helps the AI focus on a particular context rather than providing a broad, generalized response.
+
+ii. Clarity: By specifying that you want to know about "common beliefs about them," the prompt guides the AI to include cultural or societal aspects, ensuring the response covers relevant information.
+
+iii. Relevance: The more detailed prompt ensures that the answer is tailored to your specific interests, making the response more useful and aligned with your needs.
+
+
+
+
+
+
+
+
